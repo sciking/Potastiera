@@ -7,14 +7,14 @@ Keyboards.lmo = {
   autoCorrectLanguage: 'lmo',
   lang: 'lmo',
   alt: {
-    a: 'à@',
+    a: 'à@æ',
     c: 'çĉ',
     d: 'ðḑ'
     e: 'èéêë€',
     i: 'ìï',
-    o: 'òóö',
+    o: 'òóöø',
     u: 'ùü',
-    s: '$',
+    s: '$ß',
     l: '£',
     y: '¥',
     ö: 'ëäïü'
