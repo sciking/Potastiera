@@ -1,11 +1,11 @@
-Keyboards.it = {
-  label: 'Italian',
-  shortLabel: 'It',
-  menuLabel: 'Italiano',
+Keyboards.lmo = {
+  label: 'Lumbard',
+  shortLabel: 'lm',
+  menuLabel: 'Lumbard',
   imEngine: 'latin',
   types: ['text', 'url', 'email', 'password'],
-  autoCorrectLanguage: 'it',
-  lang: 'it',
+  autoCorrectLanguage: 'lmo',
+  lang: 'lmo',
   alt: {
     a: 'à@',
     c: 'çĉ',
